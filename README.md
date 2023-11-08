@@ -1,12 +1,4 @@
-- 👋
-|
-|  |  |
-|--|--|
-|  |  |
-|  |
-|--|--|
-|  |  |
- Hi, I’m @Tania-Serrulla
+- 👋 Hi, I’m @Tania-Serrulla
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -17,5 +9,5 @@ Tania-Serrulla/Tania-Serrulla is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYxNDgwNzZdfQ==
+eyJoaXN0b3J5IjpbNjI5OTUzMjcyXX0=
 -->
