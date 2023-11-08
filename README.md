@@ -13,7 +13,7 @@ Now in Spain, i am undertaking a Full Stack development Bootcamp with Factoria F
 -   I believe that soft skills are essential for our personal and professional growth.
 -   CAE (C1). Cambridge University. English is the window that allows us to explore the world.
 
-## [Contact](https://github.com/elegarmi#mailbox-connect-with-me)
+## [Contact with me](https://github.com/Tania-Serrulla#contact-with-me)
 
 ## [🛠 Skills](https://github.com/PazManrique#-skills)
 
@@ -22,6 +22,6 @@ Tania-Serrulla/Tania-Serrulla is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjQ5MTQxMywxNDAwMjE1MDQwLDYyOT
+eyJoaXN0b3J5IjpbLTkxOTg2NjMyMiwxNDAwMjE1MDQwLDYyOT
 k1MzI3Ml19
 -->
