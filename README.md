@@ -1,10 +1,7 @@
 
 # [Tania Serrulla Lopez](https://github.com/Tania-Serrulla)
 
-Always ready to new challengues:  
-New country, New Career.  
-In Argentina I graduated as a Vet.  
-Now in Spain, i am undertaking a Full Stack development Bootcamp with Factoria F5 (850 hours.)
+Tania, 28 años, Valladolid (España)
 
 ## [Sobre mi](https://github.com/Tania-Serrulla#-sobre-mi)
 
@@ -23,6 +20,6 @@ Tania-Serrulla/Tania-Serrulla is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDg1MDExNSwtMTM2OTY3ODI1NCwxND
-AwMjE1MDQwLDYyOTk1MzI3Ml19
+eyJoaXN0b3J5IjpbLTQ4Mzg5MDAwNCwtMjk0ODUwMTE1LC0xMz
+Y5Njc4MjU0LDE0MDAyMTUwNDAsNjI5OTUzMjcyXX0=
 -->
