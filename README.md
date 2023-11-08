@@ -5,10 +5,7 @@ Tania, 28 años, Valladolid (España)
 
 ## [Sobre mi](https://github.com/Tania-Serrulla#-sobre-mi)
 
--   I love SCRUM framework and team work.
--   I am a #IamRemarkable facilitator.
--   I believe that soft skills are essential for our personal and professional growth.
--   CAE (C1). Cambridge University. English is the window that allows us to explore the world.
+- Estoy estudiando programación 
 
 ## [Enlaces de contacto](https://github.com/Tania-Serrulla#-enlaces-de-contacto)
 
@@ -20,6 +17,6 @@ Tania-Serrulla/Tania-Serrulla is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Mzg5MDAwNCwtMjk0ODUwMTE1LC0xMz
-Y5Njc4MjU0LDE0MDAyMTUwNDAsNjI5OTUzMjcyXX0=
+eyJoaXN0b3J5IjpbLTIxMzk5ODEwNDAsLTI5NDg1MDExNSwtMT
+M2OTY3ODI1NCwxNDAwMjE1MDQwLDYyOTk1MzI3Ml19
 -->
